@@ -188,3 +188,11 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+Library/Artifacts/
+Library/PackageCache/
+Library/PlayerDataCache/
+Library/ScriptAssemblies/
+Library/ShaderCache/
+Library/StateCache/
+Library/TempArtifacts/
